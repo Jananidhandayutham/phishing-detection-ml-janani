@@ -41,7 +41,7 @@ Features are grouped as:
 
 - HTML/JS-based (e.g., presence of <iframe>, suspicious JS patterns)
 
-Explore the extraction pipeline and details in [URL Feature Extraction.ipynb](https://github.com/Siva-Sakthii/phishing-detection-machine-learning/blob/master/URL%20Feature%20Extraction.ipynb).
+Explore the extraction pipeline and details in [URL Feature Extraction.ipynb](https://github.com/janani/phishing-detection-machine-learning/blob/master/URL%20Feature%20Extraction.ipynb).
 
 ---
 
@@ -55,7 +55,7 @@ Algorithms Trained:
 - XGBoost
 - Support Vector Machine (SVM)
 
-All model training and evaluation steps are documented in [Phishing Website Detection_Models & Training.ipynb](https://github.com/Siva-Sakthii/phishing-detection-machine-learning/blob/master/Phishing%20Website%20Detection_Models%20%26%20Training.ipynb)
+All model training and evaluation steps are documented in [Phishing Website Detection_Models & Training.ipynb](https://github.com/janani/phishing-detection-machine-learning/blob/master/Phishing%20Website%20Detection_Models%20%26%20Training.ipynb)
 
 ---
 
