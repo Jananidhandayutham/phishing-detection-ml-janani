@@ -70,7 +70,7 @@ The trained XGBoost model is saved in XGBoostClassifier.pkl for easy deployment
 ### Project Setup
 
 ```
-git clone https://github.com/Siva-Sakthii/phishing-detection-machine-learning.git
+git clone https://github.com/Janani/phishing-detection-machine-learning.git
 cd phishing-detection-machine-learning
 pip install -r requirements.txt
 ```
